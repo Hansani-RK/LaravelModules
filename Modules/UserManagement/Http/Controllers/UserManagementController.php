@@ -15,7 +15,6 @@ class UserManagementController extends Controller
      */
     public function index()
     {
-        dd('here');
         return view('usermanagement::index');
     }
 
