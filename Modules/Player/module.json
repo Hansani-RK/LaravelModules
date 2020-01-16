@@ -1,0 +1,13 @@
+{
+    "name": "Player",
+    "alias": "player",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Player\\Providers\\PlayerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
